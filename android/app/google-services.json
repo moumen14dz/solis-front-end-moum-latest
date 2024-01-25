@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721360937432",
+    "project_id": "solis-6eed4",
+    "storage_bucket": "solis-6eed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721360937432:android:78906ac199dbb7849392ad",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD59abSOeY57sAME1wVQUVbcbGjIpVVPDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
